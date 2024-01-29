@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on ... School
+### I'm working on my semester project 🔭 I’m currently working on ... School
 - 🌱 I’m currently learning ... Game Dev
 - 👯 I’m looking to collaborate on ... Everything
 - 🤔 I’m looking for help with ... Coding
