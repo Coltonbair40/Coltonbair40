@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Gamer. I am learning Game Dev in school. I need help with coding. I am 6'5 and I am a guy.
 
 <!--
 **Coltonbair40/Coltonbair40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
